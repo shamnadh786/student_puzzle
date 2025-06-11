@@ -54,7 +54,7 @@ Setup Instructions
     php artisan serve
 
 9. For Run Unit Test
-    php artisan test
+    php artisan test --env=testing
 
 
 Problem Statement
