@@ -10,7 +10,7 @@ MySQL
 Setup Instructions
 -------------------
 1. Clone the repo
-    git clone https://github.com/yourname/word-puzzle-game.git
+    git clone  https://github.com/shamnadh786/student_puzzle.git
 
 2. Install dependencies (if vendor folder not found)
     composer install
